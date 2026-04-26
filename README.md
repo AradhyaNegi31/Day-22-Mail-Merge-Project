@@ -100,4 +100,4 @@ GUI version
 
 Email automation integration.
 
-Author - Gaurang Sharma
+Author - Aradhya Negi
